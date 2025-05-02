@@ -31,7 +31,7 @@ Columns: 38, including employee demographics, job-related metrics, satisfaction 
 
 **📸 Dashboard Preview**
 
-![image](https://github.com/user-attachments/assets/9dcca457-ed59-49af-8736-875b3c04ee3b)
+![image](https://github.com/user-attachments/assets/978d0399-d297-48aa-a1c9-03afe29ec24a)
 ![image](https://github.com/user-attachments/assets/3859bdb5-8afa-4060-8ed5-06d815b5c222)
 ![image](https://github.com/user-attachments/assets/77d12675-f4b7-4e74-9681-addb219e91e4)
 
