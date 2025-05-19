@@ -29,7 +29,7 @@ Columns: 38, including employee demographics, job-related metrics, satisfaction 
 - Built with Power BI, offering intuitive, interactive visuals and detailed drill-down capabilities.
 - Interactive visuals including bar charts, pie charts, scatter plots, parameters and detailed drill-through pages.
 
-**📸 report Preview**
+**📸 Report Preview**
 
 ![image](https://github.com/user-attachments/assets/978d0399-d297-48aa-a1c9-03afe29ec24a)
 ![image](https://github.com/user-attachments/assets/3859bdb5-8afa-4060-8ed5-06d815b5c222)
